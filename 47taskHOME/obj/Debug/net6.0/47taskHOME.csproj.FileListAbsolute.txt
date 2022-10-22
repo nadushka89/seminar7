@@ -1,0 +1,15 @@
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\47taskHOME.csproj.AssemblyReference.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\47taskHOME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\47taskHOME.AssemblyInfoInputs.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\47taskHOME.AssemblyInfo.cs
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\47taskHOME.csproj.CoreCompileInputs.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\bin\Debug\net6.0\47taskHOME.exe
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\bin\Debug\net6.0\47taskHOME.deps.json
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\bin\Debug\net6.0\47taskHOME.runtimeconfig.json
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\bin\Debug\net6.0\47taskHOME.dll
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\bin\Debug\net6.0\47taskHOME.pdb
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\47taskHOME.dll
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\refint\47taskHOME.dll
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\47taskHOME.pdb
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\47taskHOME.genruntimeconfig.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\seminar 7\47taskHOME\obj\Debug\net6.0\ref\47taskHOME.dll
